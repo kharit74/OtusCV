@@ -1,3 +1,3 @@
 # OtusCV
 ---
-> Start
+> Домашние задания  Otus CV
