@@ -1,0 +1,10 @@
+# Пути к данным
+path: C:/Users/khari/OneDrive/Документы/GirRep/OtusCV/Lesson 17/Homework/otus_basketball_dataset
+train: train/images
+val: valid/images
+
+# Количество классов
+nc: 2
+
+# Имена классов
+names: ['team0', 'team1']
